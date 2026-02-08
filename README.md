@@ -5,18 +5,16 @@ Here is the mindmap diagram I draw when I learn Finnish.
 title: Suomen kieli
 ---
 mindmap
-root((Suomen 
-    kieli))
-  Sanat{{**Sanat**}}
-    Talosaa[**Talossa**
-        *in the house*]
-      Paikka
-        vintti
-        lastenhuone
-        parveke
+root((Suomen<br/>kieli))
+  Sanat{{**Sanat**<br/>*words*}}
+    Talosaa[**Talossa**<br/>*in the house*]
+      Paikka[**Paikka**<br/>*places*]
+        vintti(**vintti**<br/>*attic*)
+        lastenhuone(**lastenhuone**<br/>*nursery*)
+        parveke(**parveke**<br/>*balcony*)
         sauna
-        kellari
-        keittiö
+        kellari(**kellari**<br/>*basement*)
+        keittiö(**keittiö**<br/>*kitchen*)
           ruokapöytä
           tuoli
           astianpesukone
@@ -28,7 +26,7 @@ root((Suomen
           kahvinkeitin
           vedenkeitin
           leivänpaahdin
-        olohuone
+        olohuone(**olohhuone**<br/>*living room*)
           sohva
           sohvapöytä
           nojatuoli
@@ -36,73 +34,53 @@ root((Suomen
           kaukosäädin
           tv-taso
           taulu
-        työhuone
+        työhuone(**työhuone**<br/>*office/study room*)
           työtuoli
           työpöytä
           laatikko
           kirjahylly
           tietokone
           verhot
-        makuuhuone
+        makuuhuone(**makuuhuone**<br/>*bedroom*)
           sänky
           yöpöytä
           kaappi
           lamppu
-        kylpyhuone/vessa
+        kylpyhuone/vessa(**kylpyhuone**<br/>*restroom*)
           suihku
           kylpyamme
           pesuallas
           wc-pönttö
           peili
           pesukone
-        eteinen
+        eteinen(**eteinen**<br/>*vestibule*)
           naulakko
           matto
-      Muut
+      Muut[**Muut**<br/>*others*]
         lattia
         katto
         seinä
         ovi
         ikkuna
         portaat
-    Asuminen[**Asuminen**
-        *residence*]
-      Rakennustyyppi[**Rakennustyyppi**
-          *building type*]
-        omakotitalo(**omakotitalo**
-            *resident house*)
-        kerrostalo(**kerrostalo**
-            *apartment building*)
-        rivitalo(**rivitalo**
-            *terraced house*)      
-      Asunto[**Asunto**
-          *housing*]
-        yksiö(**yksiö**
-            *studio*)
-        kaksio(**kaksio**
-            *one bedroom apartment*)
-        kolmio(**kolmio**
-            *two bedroom apartment*)
-        vuokra-asunto(**vuokra-asunto**
-            *rental apartment*)
-        omistusasunto(**omistusasunto**
-            *owner-occupied home*)
-        opiskelija-asunto(**opiskelija-asunto**
-            *student accommodation*)
-        asukas(**asukas**
-            *resident*)
-      Asua vuokralla[**Asua vuokralla**
-          *to live in a rented house*]
-        vuokrata(**_vuokrata_**
-            *to rent*)
-        vuokra(**vuokra**
-            *rental*)
-        vuokrasopimus(**vuokrasopimus**
-            *lease, rental agreement*)
-        vuokranantaja(**vuokranantaja**
-            *lessor*)
-        vuokralainen(**vuokralainen**
-            *tenant*)
-        takuuvuokra(**takuuvuokra**
-            *rent security deposit*)
+    Asuminen[**Asuminen**<br/>*residence*]
+      Rakennustyyppi[**Rakennustyyppi**<br/>*building type*]
+        omakotitalo(**omakotitalo**<br/>*resident house*)
+        kerrostalo(**kerrostalo**<br/>*apartment building*)
+        rivitalo(**rivitalo**<br/>*terraced house*)      
+      Asunto[**Asunto**<br/>*housing*]
+        yksiö(**yksiö**<br/>*studio*)
+        kaksio(**kaksio**<br/>*one bedroom apartment*)
+        kolmio(**kolmio**<br/>*two bedroom apartment*)
+        vuokra-asunto(**vuokra-asunto**<br/>*rental apartment*)
+        omistusasunto(**omistusasunto**<br/>*owner-occupied home*)
+        opiskelija-asunto(**opiskelija-asunto**<br/>*student accommodation*)
+        asukas(**asukas**<br/>*resident*)
+      AsuaVuokralla[**Asua vuokralla**<br/>*to live in a rented house*]
+        vuokrata(**_vuokrata_**<br/>*to rent*)
+        vuokra(**vuokra**<br/>*rental*)
+        vuokrasopimus(**vuokrasopimus**<br/>*lease, rental agreement*)
+        vuokranantaja(**vuokranantaja**<br/>*lessor*)
+        vuokralainen(**vuokralainen**<br/>*tenant*)
+        takuuvuokra(**takuuvuokra**<br/>*rent security deposit*)
 ```
