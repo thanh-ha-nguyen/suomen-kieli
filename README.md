@@ -5,7 +5,6 @@ Here is the mindmap diagram I draw when I learn Finnish.
 title: Suomen kieli
 ---
 mindmap
-root((Suomen<br/>kieli))
   Sanat{{**Sanat**<br/>*words*}}
     Talosaa[**Talossa**<br/>*in the house*]
       Paikka[**Paikka**<br/>*places*]
